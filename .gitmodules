@@ -5,4 +5,4 @@
 [submodule "trialdiff"]
 	path = trialdiff
 	url = https://github.com/Hirujan-R/trialdiff
-	branch = *release
+	branch = v0.2.0
