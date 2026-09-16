@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/hirujan-r/hirujan-r.r-universe.dev
 	branch = HEAD
+[submodule "trialdiff"]
+	path = trialdiff
+	url = https://github.com/Hirujan-R/trialdiff
+	branch = *release
